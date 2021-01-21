@@ -17,9 +17,9 @@ I'm currently studying communication/IT and software development at H.C. Ørsted
 
 #### **Social Media:**
 
-![LinkedIn](www.linkedin.com/in/maximus-juul)
+[LinkedIn](www.linkedin.com/in/maximus-juul)
 
-![Twitter](https://twitter.com/SmeIIyBeIIy)
+[Twitter](https://twitter.com/SmeIIyBeIIy)
 
 E-Mail: smellybbusiness[att]gmail.com
 

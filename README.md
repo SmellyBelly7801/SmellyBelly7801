@@ -6,7 +6,7 @@
 
 <!-- Talking about you -->
 #### **Talking about Personal Stuff:**
-Im currently studying at H.C. Ørsted Gymnasiet in Ballerup
+I'm currently studying Communication/IT and software development at H.C. Ørsted Gymnasiet in Ballerup. I am 18 and lives in Denmark. I've always had a passion for computers and, the hardware and software.
 
 <!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/SmellyB3lly">

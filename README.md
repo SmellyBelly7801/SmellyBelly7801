@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h3 align="center">Hey, I'm Maximus Juul!</h3>
+<h3 align="center">Hello There, I'm Maximus Juul!</h3>
 <p align="center">
 	<img align="center" src="https://github.com/SmellyB3lly/SmellyB3lly/blob/main/assets/helloThere.gif">
 </p>

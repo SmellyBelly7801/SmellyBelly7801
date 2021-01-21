@@ -2,7 +2,8 @@
 
 <!-- Banner -->
 <h3 align="center">Hi! My Name is Maximus, i'm an developer and a coffee addict.</h3>
-<h3 align="center">![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)</h3>
+
+![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <!-- Talking about you -->
 #### **Talking about Personal Stuff:**

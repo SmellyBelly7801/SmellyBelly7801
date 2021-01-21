@@ -17,10 +17,13 @@ I'm currently studying communication/IT and software development at H.C. Ørsted
 
 #### **Social Media:**
 
-[LinkedIn](www.linkedin.com/in/maximus-juul)
+[LinkedIn]
 
 [Twitter](https://twitter.com/SmeIIyBeIIy)
 
 E-Mail: smellybbusiness[att]gmail.com
 
 Discord: SmellyBelly#1704
+
+
+[LinkedIn]: www.linkedin.com/in/maximus-juul

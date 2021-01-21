@@ -1,8 +1,11 @@
 <!-- Banner -->
-<h3 align="center">Hey, I'm Maximus Juul!</h3>
+<h3 align="center">Hi! My Name is Maximus, i'm an developer and a coffee addict.</h3>
+
 <p align="center">
 	<img align="center" src="https://github.com/SmellyB3lly/SmellyB3lly/blob/main/assets/helloThere.gif">
 </p>
+
+
 
 <!-- Talking about you -->
 #### **Talking about Personal Stuff:**

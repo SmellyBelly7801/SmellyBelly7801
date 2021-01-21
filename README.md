@@ -6,7 +6,9 @@
 
 <!-- Talking about you -->
 #### **Talking about Personal Stuff:**
-I'm currently studying Communication/IT and software development at H.C. Ørsted Gymnasiet in Ballerup. I am 18 and lives in Denmark. I've always had a passion for computers and, the hardware and software.
+I'm currently studying Communication/IT and software development at H.C. Ørsted Gymnasiet in Ballerup. I am 18 and lives in Denmark. I've always had a passion for computers and, the hardware and software inside of it. 
+
+If you would like to get in touch with me, you can either contact me on Discord: SmellyBelly#1704 or by email: smellybbusiness@gmail.com
 
 <!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/SmellyB3lly">

@@ -16,7 +16,12 @@ I'm currently studying communication/IT and software development at H.C. Ørsted
 
 If you would like to get in touch with me, you can either contact me on Discord: SmellyBelly#1704 or by email: smellybbusiness[att]gmail.com
 
-Social Media:
+#### **Social Media:**
 
 ![LinkedIn](www.linkedin.com/in/maximus-juul)
+
 ![Twitter](https://twitter.com/SmeIIyBeIIy)
+
+![E-Mail](smellybbusiness@gmail.com)
+
+Discord: SmellyBelly#1704

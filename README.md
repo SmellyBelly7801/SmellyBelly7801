@@ -14,4 +14,13 @@
 
 I'm currently studying communication/IT and software development at H.C. Ørsted Gymnasiet in Ballerup. I'm 18 and I'm from Denmark. I've always had a passion for computers and, the hardware and software inside of it. 
 
-If you would like to get in touch with me, you can either contact me on Discord: SmellyBelly#1704 or by email: smellybbusiness[att]gmail.com
+
+#### **Social Media:**
+
+[LinkedIn](https://www.linkedin.com/in/maximus-juul/)
+
+[Twitter](https://twitter.com/SmeIIyBeIIy)
+
+E-Mail: smellybbusiness[att]gmail.com
+
+Discord: SmellyBelly#1704

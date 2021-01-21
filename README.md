@@ -26,4 +26,4 @@ E-Mail: smellybbusiness[att]gmail.com
 Discord: SmellyBelly#1704
 
 
-[LinkedIn]: www.linkedin.com/in/maximus-juul
+[LinkedIn]: https://www.linkedin.com/in/maximus-juul/

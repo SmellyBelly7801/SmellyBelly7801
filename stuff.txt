@@ -1,9 +1,0 @@
-![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
-
-- 💻 I’m currently working on different apps built on [Flutter](https://flutter.dev/)
-- 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) at my school.
-- 🤝 I’m looking to collaborate on My upcoming project. (Finance) 🤫
-- 💬 Ask me about anything, I am happy to help 😄
-- ⚡️ Fun-Fact: My favorite food is 🍔. But still no 🍍 on 🍕
-- 📫 How to reach me: fredrik1206@gmail.com;

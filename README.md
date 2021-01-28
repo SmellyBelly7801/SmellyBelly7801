@@ -21,6 +21,4 @@ I'm currently studying communication/IT and software development at H.C. Ørsted
 
 [Twitter](https://twitter.com/SmeIIyBeIIy)
 
-E-Mail: smellybbusiness[att]gmail.com
-
 Discord: SmellyBelly#1704

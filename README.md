@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Maximus</h1>
 <h3 align="center">I'm an 18 year old guy from Denmark who is currently studying software developement at H. C. Ørsted.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smellyb3lly&label=Profile%20views&color=0e75b6&style=flat" alt="smellyb3lly" /> </p>
-
 <p align="center">
 	<img align="center" src="https://github.com/SmellyB3lly/SmellyB3lly/blob/main/assets/helloThere.gif">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smellyb3lly&label=Profile%20views&color=0e75b6&style=flat" alt="smellyb3lly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smellyb3lly" alt="smellyb3lly" /></a> </p>
 

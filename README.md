@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maximus</h1>
-<h3 align="center">I'm an 19 year old guy from Denmark.</h3>
+<h3 align="center">A 21 year old guy from Denmark.</h3>
 
 <p align="center">
 	<img align="center" src="https://github.com/SmellyB3lly/SmellyB3lly/blob/main/assets/helloThere.gif">
